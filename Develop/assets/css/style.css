@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling for Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +41,7 @@ body {
     margin-left: 25px;
 }
 
+/* Styling for Main Elements */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -119,7 +120,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Styling for Footer */
 .footer {
     padding: 30px;
     clear: both;
