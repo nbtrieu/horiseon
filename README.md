@@ -9,3 +9,4 @@ This webpage was refactored to ensure it follows accessibility standards so that
 <img width="1440" alt="Screenshot 2" src="https://user-images.githubusercontent.com/110158368/199128143-b528c847-aa9f-4ae3-817d-a78ff711c167.png">
 
 ## Link to Deployed Application
+https://nbtrieu.github.io/module1-challenge/
