@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Styling for Header */
+/* Styling for Website Title and Nav Bar */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -76,6 +76,8 @@ p {
     margin-left: 20px;
 }
 
+/* Styling for Horiseon Features */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +96,7 @@ p {
     font-size: 36px;
 }
 
+/* Styling for Horiseon Benefits Section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
