@@ -1,4 +1,4 @@
-# Module 1 Challenge Webpage
+# Module 1 Challenge: Horiseon Landing Page
 
 ## Description
 
